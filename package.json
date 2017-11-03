@@ -1,6 +1,10 @@
 {
   "name": "firebase-auth",
   "version": "0.1.0",
+  "engines": {
+    "node": "8.9.0",
+    "npm": "5.5.1"
+  },
   "private": true,
   "dependencies": {
     "re-base": "^3.0.5",
